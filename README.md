@@ -44,7 +44,9 @@ admin.site.register(Player,Playeradmin)
 
 ## OUTPUT
 
+![image](https://github.com/Barath0271/ORM/assets/135820464/ae2ca322-dec4-4116-ac8b-72f0423388cb)
 
+![image](https://github.com/Barath0271/ORM/assets/135820464/16c32f5d-2b85-4b71-b5ea-b3c3b480f81a)
 
 
 
